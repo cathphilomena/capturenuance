@@ -582,6 +582,7 @@ footer {
         grid-template-columns: 1fr;
         gap: 1rem;
         text-align: center;
+        margin-top: 7rem;
     }
 
     .header__image-lg {
